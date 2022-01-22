@@ -4,13 +4,6 @@
     }
 }
 
-@media (max-width: 991px) {
-
-    section {
-        padding: 2rem;
-    }
-}
-
 @media (max-width: 830px) {
     #menu-bar {
         display: block;
