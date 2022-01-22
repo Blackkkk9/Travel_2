@@ -5,9 +5,6 @@
 }
 
 @media (max-width: 991px) {
-    html {
-        padding: 2rem;
-    }
 
     section {
         padding: 2rem;
