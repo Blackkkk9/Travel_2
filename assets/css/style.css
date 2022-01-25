@@ -274,6 +274,7 @@ header .search-btn-container label:hover{
     font-size: 1.7rem;
     color: #333;
     text-transform: none;
+    border-radius: 7px;
 }
 
 .book .row form .inputBox h3{
@@ -500,6 +501,7 @@ header .search-btn-container label:hover{
     color: #333;
     background: #e7e5e5;
     text-transform: none;
+    border-radius: 7px;
 }
 
 .contact .row form textarea{
